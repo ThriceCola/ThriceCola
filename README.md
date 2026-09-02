@@ -8,6 +8,4 @@
 
 ***
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thricecola&layout=compact&theme=catppuccin_latte&hide_border=true" alt="ThriceCola's github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thricecola&show_icons=true&layout=compact&hide_border=true&theme=catppuccin_latte" alt="ThriceCola's github stats" />  -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thricecola.thricecola&left_color=%2377767b&right_color=%23ffa348)
